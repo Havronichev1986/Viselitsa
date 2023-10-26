@@ -1,0 +1,2 @@
+C:\Users\Lenovo\Desktop\Visual Studio\Project1\x64\Debug\Viselica.exe
+D:\Project1\x64\Debug\Viselica.exe
